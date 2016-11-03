@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Signupform</string>
-    <string name ="ok">OK</string>
+    <string name="ok">OK</string>
     <string name="cancel">CANCEL</string>
     <string name="username_label">Username</string>
     <string name="username_input">Please enter your username</string>
@@ -8,4 +8,5 @@
     <string name="password_input">Please enter your password</string>
     <string name="password_confirmation">Please confirm your password</string>
     <string name="submit">Submit</string>
+    <string name="welcome_format">Welcome, %1$s!</string>
 </resources>
